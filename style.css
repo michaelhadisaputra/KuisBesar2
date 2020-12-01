@@ -1,0 +1,444 @@
+/* login */
+.tombol{
+    text-transform: uppercase;
+    border-radius: 40px;
+    margin-left:40px;
+}
+
+/* Navbar */
+.navbar{
+    color : white;
+    z-index: 1;
+    height:50px;
+}
+
+.navbar.test{
+    color : white;
+    z-index: 1;
+    height:50px;
+    background-color: #0E2F44;
+}
+.nav-link.test{
+    color: white !important;
+}
+
+.nav-link.test1{
+    color: white !important;
+    text-shadow: 2px 2px blue;
+}
+
+.navbar-brand{
+    color:white !important;
+    text-shadow: 2px 2px red;
+}
+
+/* Carousel */
+.carousel-item {
+    max-width:100%;
+    height:500px;
+
+}
+
+.carousel-control-prev{
+    top:50%;
+    bottom:50%;
+}
+
+.carousel-control-next{
+    top:50%;
+    bottom:50%;
+}
+
+.carousel.slide{
+    margin-top : -50px;
+    height:auto;
+    max-width:100%;
+}
+
+.jumbotron1 {
+    background-image: url(img/cuci.jpg);
+    background-size: cover;
+    height: 607px;
+    text-align: center;
+    position: relative;
+    
+}
+.jumbotron1 .formm{
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    width:30%;
+    transform: translate(0%, 30%);
+    padding: 10px;
+    
+}
+
+.jumbotron1a{
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    width:100%;
+    transform: translate(0%, 5%);
+    height: 500px;
+}
+
+.jumbotron1b{
+    position:relative;
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    width:75%;
+    transform: translate(17%, 40%);
+    padding: 10px;
+    
+}
+
+
+.jumbotron .container .centered {
+    position: absolute;
+    color:whitesmoke;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.jumbotron .container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.jumbotron .img-fluid{
+    opacity : 80%;
+}
+/* nota-logo */
+.nota-logo{
+    width: 110%;
+    height: 110%;
+}
+
+/* card */
+.card-img-top{
+    height:auto;
+    width:300px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+#card{
+    background-color: black;
+    width:100%;
+    margin-left:0;
+}
+
+/* Review */
+.review{
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    border-radius: 12px;
+    background-color: white;
+    padding: 30px;
+    max-width: 100%;
+}
+
+
+.review img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.review h4{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.review p{
+    font-size: 14px;
+    color: #ACACAC;
+    margin-top: -5px;
+    font-weight: 200px;
+}
+
+.container1{
+    margin-right:20px;
+    margin-left:20px;
+}
+
+
+
+/* footer */
+footer{
+    background-color: black;
+}
+
+.foot{
+    margin-right: 20px;
+}
+
+.fa {
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#logo{
+    text-align:left;
+    padding-left:10px;
+}
+
+/* product cart*/
+.product-cart{
+    border:1px solid black;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.kart{
+    border: 2px solid black;
+}
+
+.spasi{
+    margin-bottom: 20px;
+}
+
+
+/*  desc img carousel */
+.img-desc img{
+    max-height: 100px;
+    width: 200px;
+}
+/* card */
+.card-img-top{
+    height:300px;
+    width:auto;
+    margin-bottom: 20px;
+}
+
+/* button add to cart */
+.button-add-to-cart{
+    background-color: #0E2f44;
+    border: 1px solid;
+    color: white;
+    padding: 10px;
+}
+.button-add-to-cart:hover{
+    background-color: white;
+    color:  #0E2f44;
+    border: 1px solid #0E2f44;
+}
+
+/* product headline */
+.product-headline h5{
+    color: black !important;
+}
+
+.container1{
+    margin-right:20px;
+    margin-left:20px;
+}
+/* service */
+.table img{
+    width: 30px;
+    text-align: center;
+}
+
+/* contactus */
+.container-fluid{
+    background-image: url(img/cuci.jpg);
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 607px;
+}
+.container-fluid1{
+    background-image: url(img/cuci.jpg);
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 607px;
+}
+
+.sendusmessage h1{
+    font-size: 40px;
+    font-family: viga;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.col-3{
+    height: 607px;
+}
+
+.form-group{
+    padding-left: 10px;
+}
+
+.textarea :required{
+    box-shadow: none;
+    outline: none;
+}
+
+.btn{
+    margin-left: 13px;
+}
+
+
+.sosmed h1{
+    padding-top: 50px;
+    font-family: viga;
+    font-size: 40px;
+    text-align: center;
+}
+
+.sosmed img{
+    margin-top: 20px;
+    width: 80px;
+    padding: 10px;
+}
+
+.icon li{
+    font-size: 20px;
+    font-family: viga;
+    color: rgba(0,0,0,0.5);
+}
+
+/* Form Registrasi */
+.formm h2{
+    font-family: viga;
+    font-size: 30px;
+}
+
+.form-row{
+    padding-top: 10px;
+}
+
+
+
+/* Form Login*/
+.formm h1{
+    font-family: viga;
+    font-size: 30px;
+}
+
+.form-row{
+    padding-top: 10px;
+}
+
+/* body */
+body{
+    font-family: viga;
+}
+footer{
+    font-family: viga;
+}
+h1{
+    font-family: viga;
+}
+h2{
+    font-family: viga;
+}
+
+.margin3{
+    margin-right: 50px;
+}
+
+@media (max-width: 992px) {
+    .navbar-nav {
+        background: rgba(255, 255, 255, 0.7);
+        padding-left:10px;
+        padding-right:10px;
+        padding-bottom:10px;
+        text-align:center;
+        width:50%;
+    }  
+    .navbar-nav1 {
+        background: rgba(255, 255, 255, 1);
+        padding-left:10px;
+        padding-right:10px;
+        padding-bottom:10px;
+        text-align:center;
+        width:50%;
+    }  
+    .nav-link{
+        color:black !important;
+    }
+    .tombol{
+        margin-left:9px;
+    }
+    .carousel-item{
+        height:300px;
+    }
+    .jumbotron .container .centered h1 {
+        font-size: 20px;
+    }
+    .jumbotron .container .centered h2 {
+        font-size: 18px;
+    }
+    .jumbotron1 .formm{
+        background-color: rgba(255, 255, 255, 0.3);
+        box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+        width:50%;
+        transform: translate(0%, 15%);
+        padding: 10px;
+        
+    }
+
+    .payment{
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+    .nota-logo{
+        width: auto;
+        height: auto;
+    }
+
+    .sosmed img{
+        width: 40px;
+    }
+    .container-fluid1{
+        background-image: url(img/cuci.jpg);
+        height:750px;
+    }
+    .jumbotron1a{
+        background-color: rgba(255, 255, 255, 0.7);
+        box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+        width:100%;
+        transform: translate(0%, 5%);
+        height: 715px;
+    }
+    .jumbotron1b{
+        position:relative;
+        background-color: rgba(255, 255, 255, 0.7);
+        box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+        width:75%;
+        transform: translate(17%, 0%);
+        text-align: center;
+    }
+    .payment{
+        margin-left: 40px;
+        padding-top: 10px;
+    }
+    .nav-link.test{
+        color: black !important;
+    }
+    .nav-link.test1{
+        color: black !important;
+        text-shadow: none;
+    }
+    .margin3{
+        margin-right: 0;
+    }
+}
